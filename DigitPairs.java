@@ -81,6 +81,6 @@ public class DigitPairs{
 		}
 		}
 		count=count1+count2;
-		System.out.println(count);
+		System.out.println("COUNT OF PAIRS:"+count);
 	}
 }
